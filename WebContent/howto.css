@@ -1,0 +1,200 @@
+td {
+font-size: 11px;
+font-family:verdana;
+}
+
+a:link {font-family:verdana; font-size:11px;text-decoration:none;}
+a:visited {font-family:verdana; font-size:11px;text-decoration:none;}
+a:active {}
+a:hover {color:#ffffff; text-decoration:underline;}
+
+a.bigorange:link {font-family:arial; font-weight:bold;color:#FC770B; font-size:15px; text-decoration:none;}
+a.bigorange:active {color:#FC770B; }
+a.bigorange:visited {color:#FC770B; text-decoration:none;font-weight:bold;font-size:15px;}
+a.bigorange:hover {color:#FC770B; text-decoration:underline;font-weight:bold;font-size:15px;}
+
+a:bigwhite:link {text-decoration:none;}
+a:bigwhite:visited {text-decoration:none;}
+a:bigwhite:active {text-decoration:none;}
+a:bigwhite:hover {text-decoration:none;}
+
+table.topnav a:link {font-family:arial;font-size:11px;font-weight:bold;color:#ffffff; text-decoration:none;}
+table.topnav a:active {color:#ffffff; }
+table.topnav a:visited {font-family:arial; font-size:11px;font-weight:bold;color:#ffffff; text-decoration:none;}
+table.topnav a:hover {color:#ffffff; text-decoration:underline;}
+
+td.footer a:link {font-family:verdana;font-size:10px;font-weight:bold;color:#cccccc; text-decoration:none;}
+td.footer a:active {color:#cccccc; }
+td.footer a:visited {font-family:verdana; font-size:10px;font-weight:bold;color:#cccccc; text-decoration:none;}
+td.footer a:hover {color:#cccccc; text-decoration:underline;}
+
+td.section_heading a:link {color:#ffffff;text-decoration:none;font-size:12px;font-weight:bold;}
+td.section_heading a:active {color:#ffffff; font-size:12px;font-weight:bold;}
+td.section_heading a:visited {color:#ffffff; text-decoration:none;font-size:12px;font-weight:bold;}
+td.section_heading a:hover {color:#ffffff; text-decoration:underline;font-size:12px;font-weight:bold;}
+
+
+table.topnav {
+margin:1px 0px 2px 0px;
+}
+
+table.topnav td {
+color:#ffffff;
+}
+
+table.header {
+background:url(../images/bg_header.jpg) no-repeat;
+margin:20px 0px 0px 0px;
+}
+
+table.feature {
+background:url(../images/hp_bg_feature.gif) no-repeat;
+}
+
+table.feature td {
+font-size:11px;
+color:#4C4114;
+}
+
+div.feature {
+width:118px;
+height:40px;
+overflow:hidden;
+margin:0px 0px 0px 10px;
+}
+
+div.onair {
+width:428px;
+height:110px;
+overflow:hidden;
+margin:0px 0px 6px 6px;
+padding:0px 0px 0px 10px;
+background:url(../images/hp_bg_onair.gif) no-repeat;
+
+}
+
+div.comingsoon {
+width:428px;
+height:90px;
+overflow:hidden;
+margin:0px 0px 6px 6px;
+padding:0px 10px 0px 10px;
+background:url(../images/hp_bg_middlepanel.gif) no-repeat;
+}
+
+div.weekdays {
+width:428px;
+height:90px;
+overflow:hidden;
+margin:0px 0px 6px 6px;
+padding:0px 10px 0px 10px;
+background:url(../images/hp_bg_middlepanel.gif) no-repeat;
+}
+
+div.tips {
+width:428px;
+height:90px;
+overflow:hidden;
+margin:0px 0px 6px 6px;
+padding:0px 10px 0px 0px;
+background:url(../images/hp_bg_tips.gif) no-repeat;
+}
+
+div.sectionlist {
+	margin:6px 0px 0px 0px;
+	width:200px;
+}
+div.sectionlist a:link, div.sectionlist a:visited {
+	display:block;
+	color: #7F7F7F;
+	padding:1px 0px 1px 9px;
+	margin:0px 0px 0px 0px;
+	background: no-repeat url(../images/arrow_list_yellow.gif);
+}
+
+div.storylist {
+	margin:6px 0px 0px 0px;
+	width:100px;
+}
+div.storylist a:link, div.storylist a:visited {
+	display:block;
+	color: #7F7F7F;
+	padding:1px 0px 1px 9px;
+	margin:0px 0px 0px 0px;
+	background: no-repeat url(../images/arrow_list_yellow.gif);
+}
+
+div.storylist a:hover {color: #000000; }
+
+.bigred {
+font-weight:bold;
+font-size:17px;
+color:#ED1B23;
+}
+
+.bigwhite {
+font-weight:bold;
+font-size:13px;
+color:#ffffff;
+}
+
+.bigorange {
+font-weight:bold;
+font-size:15px;
+color:#FC770B;
+}
+
+td.footer {
+color:#999999;
+font-size:10px;
+padding:10px 0px 20px 0px;
+}
+
+td.section_heading {
+color:#ffffff;
+font-size:12px;
+font-weight:bold;
+background:url(../images/section_bg_heading.jpg) no-repeat;
+padding:0px 0px 0px 20px;
+}
+
+td.section_heading_sml {
+color:#ffffff;
+font-size:17px;
+font-weight:bold;
+background:url(../images/section_bg_heading_sml.jpg) no-repeat;
+padding:0px 0px 0px 20px;
+}
+
+div.sitemap a:link, div.sitemap a:visited {
+	display:block;
+	color: #7F7F7F;
+	font-weight:normal;
+	padding:1px 0px 1px 12px;
+	margin:3px 0px 0px 0px;
+	background: no-repeat url(../images/arrow_list.gif);
+}
+
+div.sitemap a:hover{color: #000000;}
+
+div.sitemapb {
+	margin:10px 0px 0px 0px;
+	width:235px;
+}
+
+div.sitemapb a:link, div.sitemapb a:visited {
+	display:block;
+	color: #7F7F7F;
+	font-weight:normal;
+	padding:1px 0px 1px 12px;
+	margin:3px 0px 0px 10px;
+	background: no-repeat url(../images/arrow_dot.gif);	
+}
+
+div.sitemapb a:hover{color: #000000;}
+
+div.nispacer {
+line-height: 1px; 
+font-size: 1px;
+color:#F0B500;
+}
